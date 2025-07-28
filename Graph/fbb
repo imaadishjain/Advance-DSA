@@ -1,0 +1,275 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+
+\namesection{ANUKRITI} {JAIN}{ % Your name
+
+\href{mailto:janukriti200111@gmail.com}{janukriti200111@gmail.com} | 
+{+919302635620}| % Your contact information
+\href{https://www.linkedin.com/in/anukritijain11/}{LinkedIn}|
+\href{https://github.com/Anukritijain11}{\textbf{Github}}|
+\href{https://leetcode.com/janukriti/}{\textbf{Leetcode}}
+}
+
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.32\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+
+\runsubsection{\textit{B.tech in information Technology}}
+
+\location{GGITS}
+\textbf{\textit2019-2023 | Jabalpur, M.P , India} 
+\textbf{\textit CGPA:9.29/10}
+
+\sectionspace % Some whitespace after the section
+
+\subsection{CLASS 12TH | MP Board}
+\location{Maharastra H.S}
+\textbf{\textit 2018-2019 | Jabalpur, M.P, India}
+\textbf{\textit Percentage:82/100}
+
+
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+\subsection{CLASS 10TH | CBSE Board}
+\location{St. Josephs Convent}
+\textbf{\textit 2016-2017 | Jabalpur, M.P , India}
+\textbf{\textit CGPA:09.00/10}
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+\sectionspace
+%------------------------------------------------
+% Coursework
+%------------------------------------------------
+
+\section{SKILLS}
+
+\subsection{Coding}
+
+
+
+\textbf{\textit Java , C and C++}\\
+ \textbf{\textit Familiar: HTML,CSS and SQL}
+\sectionsep
+\subsection{DATABASE}
+\textbf{\textit SQL, MySql and Oracle Database}
+\sectionsep
+\subsection{Operating System}
+\textbf{\textit Windows 10,11 and Linux}
+\sectionsep
+\subsection{Cloud Computing}
+\textbf{\textit AWS EC2 and Oracle Cloud}
+\sectionsep
+\subsection{tools}
+\textbf{\textit Primavera, WordPress, Packet Tracer}
+
+\sectionsep % Some whitespace after the section
+
+%------------------------------------------------
+
+\sectionsep% Some whitespace after the section
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Course Work}
+\textbf{\textit Object Oriented Programming}\\
+\textbf{\textit Operating Systems}\\
+\textbf{\textit Data Structures and Algorithms}\\
+\textbf{\textit Database Management Systems}\\
+\textbf{\textit Computer Networks}\\
+\textbf{\textit Software Development}
+
+
+\sectionspace % Some whitespace after the section
+
+\section{Soft Skills}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\begin{tightitemize}
+\textbf{\textit Excellent Communication skills}\\
+\textbf{\textit Analytical Skills }\\
+\textbf{\textit Superior Problem Solving Skills}
+\textbf{\textit Deadline driven}\\
+
+
+\begin{minipage}[t]{0.65\textwidth} % The right column takes up 66% of the text width of the page
+
+    %------------------------------------------------
+    % Experience
+    %------------------------------------------------
+    
+    \begin{minipage}[t]{0.65\textwidth} % The right column takes up 66% of the text width of the page
+
+        %------------------------------------------------
+        % Experience
+        %------------------------------------------------
+        
+        \section{Professional Experience}
+        \runsubsection
+        {Intern}
+        \descript{| Ericsson Global India}
+        \location{ Jan 2023 –  Current}
+        \vspace{\topsep} % Hacky fix for awkward extra vertical space
+        \begin{tightitemize}
+        \item Skilled with understanding of automation technologies , Tools(Enable).
+        \item Strong background in problem-solving abilities, implementing, and optimizing automated systems to enhance efficiency, productivity, and quality in various industries.
+        \end{tightitemize}
+        \runsubsection
+        {Martian internship program 2022}
+        \descript{| persistent Systems}
+         
+        
+        \location{ Apr 2022 –  Jun 2022}
+        
+        \begin{tightitemize}
+        \item Revisited and applied C++ core and Data Structure.
+        \item Accomplished the core aspects of DBMS and SQL in Oracle.
+        \item Reattainded Operating Systems and Computer Networks Concept.
+        \end{tightitemize}
+        %\sectionspace
+        
+        %\runsubsection{CYBER Security virtual internship program 2021}
+        %\descript{held by aicte,cisco networking academy and a meity-nasscom Digitalskills initiative}
+        
+        %\location{ Apr 2021 –  jun 2021}
+        %\vspace{\topsep} % Hacky fix for awkward extra vertical space
+        %\begin{tightitemize}
+        %\item Enhanced detailed Data Privacy upto 70.
+        %\item Revisited detailed CyberThreats,Vulnerability and attacks upto 70.
+        %\item Attained detailed Cyber Security and it's Management upto 60. 
+        
+        
+        %\end{tightitemize}
+        
+        %\sectionspace % Some whitespace after the section
+        
+        %------------------------------------------------
+        \section{PROJECTS}
+        \runsubsection{Client Server Chat Application}|
+        \href{https://github.com/Anukritijain11/chatserver}{\textbf{SOURCE CODE}}
+        
+        
+        \location{Technology Used:Java,Java Sockets,Swing and AWT Frameworks}
+        \begin{tightitemize}
+        \item A \textbf{reliable, Secure network Program} which can perform a\textbf{ Multithreaded} Operations.
+        \item  This application is based on \textbf{Java Socket Programming} using \textbf{ Transmission Control Protocol}.
+        \item Worked on Troubleshooting system errors,Analzying risk and Implemented build systems .
+        
+        \end{tightitemize}
+        
+        
+        %-----------------------------------------------
+        
+        \runsubsection{NARCOTIC Drug Tracking Website}| 
+        \href {http://129.154.235.21/}{\textbf{ WEBSITE}}
+        
+        \location{Technology Used:
+        \textbf{HTML, CSS, WordPress,Oracle Cloud,React,Redux,NodeJS,ExpressJS,PostgreSQL.}}
+        \begin{tightitemize}
+        \item A cross platform application for Tracking the Drugs and Ensure the Authenticity of the
+        patient using a e-Prescription containing QR-Code dispensed by verified Doctor.
+        \item It was made under \textbf{Smart India Hackathon} 2021.
+        \item Worked on Debugging and frontend Development using WordPress and its
+        Connectors and Deployed in Oracle Cloud.
+        
+        
+        \end{tightitemize}
+        
+        
+        
+        %------------------------------------------------
+        % Research
+        %------------------------------------------------
+    %------------------------------------------------
+    \section{PROJECTS}
+    \runsubsection{Client Server Chat Application}|
+    \href{https://github.com/Anukritijain11/chatserver}{\textbf{SOURCE CODE}}
+    
+    
+    \location{Technology Used:Java,Java Sockets,Swing and AWT Frameworks}
+    \begin{tightitemize}
+    \item A \textbf{reliable, Secure network Program} which can perform a\textbf{ Multithreaded} Operations.
+    \item  This application is based on \textbf{Java Socket Programming} using \textbf{ Transmission Control Protocol}.
+    \item Worked on Troubleshooting system errors,Analzying risk and Implemented build systems .
+    
+    \end{tightitemize}
+    
+    
+    %-----------------------------------------------
+    
+    \runsubsection{NARCOTIC Drug Tracking Website}| 
+    \href {http://129.154.235.21/}{\textbf{ WEBSITE}}
+    
+    \location{Technology Used:
+    \textbf{HTML, CSS, WordPress,Oracle Cloud,React,Redux,NodeJS,ExpressJS,PostgreSQL.}}
+    \begin{tightitemize}
+    \item A cross platform application for Tracking the Drugs and Ensure the Authenticity of the
+    patient using a e-Prescription containing QR-Code dispensed by verified Doctor.
+    \item It was made under \textbf{Smart India Hackathon} 2021.
+    \item Worked on Debugging and frontend Development using WordPress and its
+    Connectors and Deployed in Oracle Cloud.
+    
+    
+    \end{tightitemize}
+    
+    
+    
+    %------------------------------------------------
+    % Research
+    %------------------------------------------------
+
+
+
+    \section{Certification}
+\runsubsection{Cisco Networking And Oracle Academy}
+
+\begin{tightitemize}\item{\textbf{CCNAv7: Introduction to Networks course} | 70 hrs | 2021 | \href{https://drive.google.com/file/d/1qSJgzFwR31ngfr8RMZ6wyJMEW3_5LkIJ/view}{Link} }
+\item{\textbf {CPA: Programming Essentials in C++ } | 70 hrs |2020 | \href{https://drive.google.com/file/d/1nGAd6YB39xcGiz29b4vS7YwP7Wk7U07b/view}{Link} }
+\item{\textbf{CPA: Programming Essentials in C} | 70 hrs | 2020 \href{https://drive.google.com/file/d/12D2ZibpfPBzbrZDGIzqA3_QFrcHGyDCD/view}{Link} }
+\end{tightitemize}
+%\runsubsection{Oracle Academy}
+\begin{tightitemize}
+\item{\textbf{Database Foundations} | 50 hours | 2021 | \href{https://drive.google.com/file/d/1mWtOSaiLZaV_vu_M8F1VhAXeDMa91Daf/view?usp=sharing}{Link} }
+\end{tightitemize}
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+
+
+
+
+%------------------------------------------------
+% Awards
+%------------------------------------------------
+
+\section{Activities}
+
+
+\begin{itemize}
+
+\item\textbf Ranked {2nd}  in \textbf{National Science Olympiad} 2017-2018.
+\item Participated in \textbf{Smart India Hackathon} 2021-2022.
+\item Participated in \textbf{Oracle Cloud Development Drive }2021-2022.
+\item \textbf{A,B and C} certified and Awarded as \textbf{Best Cadet }in {NCC} 2019-2022.
+\item\textbf {1st} position in \textbf{State Level Chess Tou
